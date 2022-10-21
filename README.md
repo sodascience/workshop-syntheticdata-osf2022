@@ -1,4 +1,4 @@
-# OSF2022 synthetic data workshop
+# How to create synthetic data: a tool for open science
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7234121.svg)](https://doi.org/10.5281/zenodo.7234121)
 
