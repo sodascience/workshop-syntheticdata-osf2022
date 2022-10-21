@@ -1,8 +1,8 @@
 # OSF2022 synthetic data workshop
 Archive for the synthetic data pre-conference workshop at the [Open Science Festival](https://opensciencefestival.nl) on September 1, 2022.
 
-<div align="center">
-<img src="img/osf2022_workshop.jpg" alt="SoDa logo" width="350px"/> 
+<div>
+<img src="img/osf2022_workshop.jpg" alt="SoDa logo" width="400px"/> 
 
 _photo by Pim Rusch (c)_
 </div>
