@@ -1,4 +1,7 @@
 # OSF2022 synthetic data workshop
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7234121.svg)](https://doi.org/10.5281/zenodo.7234121)
+
 Archive for the synthetic data pre-conference workshop at the [Open Science Festival](https://opensciencefestival.nl) on September 1, 2022.
 
 <div>
